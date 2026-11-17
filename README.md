@@ -22,5 +22,5 @@ Stark Commander is a web-based remote control interface for your laptop. Designe
 
 1. **Clone the repository:**
    ```bash
-   git clone []
+   git clone [https://github.com/Kadiyala-Dhanush-Sai/Stark---Commander-.git]
    cd stark-commander
